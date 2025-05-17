@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_USERS>
+        <AU_PASSWORD><![CDATA[4XkHtoAYhgJgFkD0f9eHkg==]]></AU_PASSWORD>
+        <AU_ORGURL><![CDATA[null]]></AU_ORGURL>
+        <AU_MANAGER><![CDATA[null]]></AU_MANAGER>
+        <AU_COUNTRY><![CDATA[null]]></AU_COUNTRY>
+        <AU_ID><![CDATA[11746179132188]]></AU_ID>
+        <AU_TITLE><![CDATA[null]]></AU_TITLE>
+        <AU_CITY><![CDATA[null]]></AU_CITY>
+        <AU_FAX><![CDATA[null]]></AU_FAX>
+        <AU_LASTLOGIN><![CDATA[1746423631136]]></AU_LASTLOGIN>
+        <AU_COMMENT><![CDATA[null]]></AU_COMMENT>
+        <AU_ADDRESS1><![CDATA[null]]></AU_ADDRESS1>
+        <AU_PERMISSIONMASK><![CDATA[777]]></AU_PERMISSIONMASK>
+        <AU_CALENDAR><![CDATA[null]]></AU_CALENDAR>
+        <AU_CREATIONDATE><![CDATA[2025-05-05 05:39:34.0]]></AU_CREATIONDATE>
+        <AU_USEROWNER><![CDATA[IndigoUser:127000000001107055536473900001]]></AU_USEROWNER>
+        <AU_DESCRIPTION><![CDATA[vgoel_companyonly_single@yopmail.com]]></AU_DESCRIPTION>
+        <AU_ACTIVATEFLAG><![CDATA[Activated]]></AU_ACTIVATEFLAG>
+        <AU_PROJECTOWNER><![CDATA[Project:11484550701988]]></AU_PROJECTOWNER>
+        <AU_STATE><![CDATA[null]]></AU_STATE>
+        <AU_ADDRESS2><![CDATA[null]]></AU_ADDRESS2>
+        <AU_LASTNAME><![CDATA[Company Only Single]]></AU_LASTNAME>
+        <AU_UNIQUEIDENTIFIER><![CDATA[null]]></AU_UNIQUEIDENTIFIER>
+        <AU_PRIVATEKEYPASSWORD><![CDATA[null]]></AU_PRIVATEKEYPASSWORD>
+        <AU_PRIMARYGROUP><![CDATA[IndigoGroup:192168001075148181566048300002]]></AU_PRIMARYGROUP>
+        <AU_COLLEAGUE><![CDATA[null]]></AU_COLLEAGUE>
+        <AU_USERPERMISSION><![CDATA[7]]></AU_USERPERMISSION>
+        <AU_EMAIL><![CDATA[vgoel_companyonly_single@yopmail.com]]></AU_EMAIL>
+        <AU_PREVIOUSVERSION><![CDATA[null]]></AU_PREVIOUSVERSION>
+        <AU_READ_ONLY_ACCESS><![CDATA[null]]></AU_READ_ONLY_ACCESS>
+        <AU_SENDEMAIL><![CDATA[0]]></AU_SENDEMAIL>
+        <AU_CERTIFICATESTATUS><![CDATA[false]]></AU_CERTIFICATESTATUS>
+        <AU_SYNCHRONIZED><![CDATA[0]]></AU_SYNCHRONIZED>
+        <AU_MODIFIEDBY><![CDATA[IndigoUser:127000000001107055536473900001]]></AU_MODIFIEDBY>
+        <AU_REVISION><![CDATA[null]]></AU_REVISION>
+        <AU_USERTYPE><![CDATA[groupadmin]]></AU_USERTYPE>
+        <AU_MOBILE><![CDATA[null]]></AU_MOBILE>
+        <AU_MODIFIEDDATE><![CDATA[2025-05-05 05:39:34.0]]></AU_MODIFIEDDATE>
+        <AU_ENTITYNAME><![CDATA[vgoel_companyonly_single@yopmail.com]]></AU_ENTITYNAME>
+        <AU_PHONE><![CDATA[null]]></AU_PHONE>
+        <AU_IMAGEIDENTIFIER><![CDATA[null]]></AU_IMAGEIDENTIFIER>
+        <AU_ZIP><![CDATA[null]]></AU_ZIP>
+        <AU_VIEWLEVEL><![CDATA[null]]></AU_VIEWLEVEL>
+        <AU_FIRSTNAME><![CDATA[Vishal Goel]]></AU_FIRSTNAME>
+        <AU_COMMENTS><![CDATA[null]]></AU_COMMENTS>
+        <AU_KEYSTOREPASSWORD><![CDATA[null]]></AU_KEYSTOREPASSWORD>
+        <AU_ORGNAME><![CDATA[null]]></AU_ORGNAME>
+        <AU_ACTIVEVERSION><![CDATA[1]]></AU_ACTIVEVERSION>
+        <AU_LASTMESSAGEVIEWED><![CDATA[null]]></AU_LASTMESSAGEVIEWED>
+        <AU_USERPREFRENCES><![CDATA[null]]></AU_USERPREFRENCES>
+        <AU_WEBDAVFOLDER><![CDATA[null]]></AU_WEBDAVFOLDER>
+        <PARTNER_OWNER><![CDATA[1]]></PARTNER_OWNER>
+        <AU_GROUPOWNER><![CDATA[IndigoGroup:192168001075148181566048300002]]></AU_GROUPOWNER>
+        <AU_LASTPASSWORDCHANGED><![CDATA[null]]></AU_LASTPASSWORDCHANGED>
+        <LOCKED_TIME><![CDATA[null]]></LOCKED_TIME>
+        <AU_VERSION><![CDATA[1]]></AU_VERSION>
+    </AU_USERS>
+    <columnInfo dbtype="2">
+        <column name="AU_ID" type="12"/>
+        <column name="AU_VERSION" type="12"/>
+        <column name="AU_PREVIOUSVERSION" type="12"/>
+        <column name="AU_ACTIVEVERSION" type="2"/>
+        <column name="AU_ENTITYNAME" type="12"/>
+        <column name="AU_USEROWNER" type="12"/>
+        <column name="AU_GROUPOWNER" type="12"/>
+        <column name="AU_PERMISSIONMASK" type="12"/>
+        <column name="AU_DESCRIPTION" type="12"/>
+        <column name="AU_COMMENTS" type="12"/>
+        <column name="AU_MODIFIEDBY" type="12"/>
+        <column name="AU_CREATIONDATE" type="93"/>
+        <column name="AU_MODIFIEDDATE" type="93"/>
+        <column name="AU_REVISION" type="12"/>
+        <column name="AU_SYNCHRONIZED" type="2"/>
+        <column name="AU_PROJECTOWNER" type="12"/>
+        <column name="AU_USERTYPE" type="12"/>
+        <column name="AU_PRIMARYGROUP" type="12"/>
+        <column name="AU_FIRSTNAME" type="12"/>
+        <column name="AU_LASTNAME" type="12"/>
+        <column name="AU_TITLE" type="12"/>
+        <column name="AU_COMMENT" type="12"/>
+        <column name="AU_ORGNAME" type="12"/>
+        <column name="AU_ADDRESS1" type="12"/>
+        <column name="AU_ADDRESS2" type="12"/>
+        <column name="AU_CITY" type="12"/>
+        <column name="AU_STATE" type="12"/>
+        <column name="AU_COUNTRY" type="12"/>
+        <column name="AU_ORGURL" type="12"/>
+        <column name="AU_EMAIL" type="12"/>
+        <column name="AU_MOBILE" type="12"/>
+        <column name="AU_PHONE" type="12"/>
+        <column name="AU_FAX" type="12"/>
+        <column name="AU_PASSWORD" type="12"/>
+        <column name="AU_ZIP" type="12"/>
+        <column name="AU_USERPERMISSION" type="12"/>
+        <column name="AU_ACTIVATEFLAG" type="12"/>
+        <column name="AU_KEYSTOREPASSWORD" type="12"/>
+        <column name="AU_PRIVATEKEYPASSWORD" type="12"/>
+        <column name="AU_CERTIFICATESTATUS" type="12"/>
+        <column name="AU_COLLEAGUE" type="12"/>
+        <column name="AU_MANAGER" type="12"/>
+        <column name="AU_CALENDAR" type="12"/>
+        <column name="AU_VIEWLEVEL" type="12"/>
+        <column name="AU_LASTPASSWORDCHANGED" type="93"/>
+        <column name="AU_WEBDAVFOLDER" type="12"/>
+        <column name="AU_LASTLOGIN" type="12"/>
+        <column name="AU_SENDEMAIL" type="2"/>
+        <column name="AU_UNIQUEIDENTIFIER" type="12"/>
+        <column name="AU_IMAGEIDENTIFIER" type="2"/>
+        <column name="AU_LASTMESSAGEVIEWED" type="93"/>
+        <column name="LOCKED_TIME" type="93"/>
+        <column name="AU_USERPREFRENCES" type="2"/>
+        <column name="PARTNER_OWNER" type="2"/>
+        <column name="AU_READ_ONLY_ACCESS" type="2"/>
+    </columnInfo>
+</data>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_USERS>
+        <AU_GROUPOWNER><![CDATA[IndigoGroup:127000000001107055548721600002]]></AU_GROUPOWNER>
+        <AU_READ_ONLY_ACCESS><![CDATA[0]]></AU_READ_ONLY_ACCESS>
+        <AU_ADDRESS2><![CDATA[NA]]></AU_ADDRESS2>
+        <AU_USERPREFRENCES><![CDATA[null]]></AU_USERPREFRENCES>
+        <AU_UNIQUEIDENTIFIER><![CDATA[null]]></AU_UNIQUEIDENTIFIER>
+        <AU_PERMISSIONMASK><![CDATA[710]]></AU_PERMISSIONMASK>
+        <AU_ZIP><![CDATA[60610]]></AU_ZIP>
+        <AU_ORGURL><![CDATA[http://www.adeptia.com]]></AU_ORGURL>
+        <AU_LASTMESSAGEVIEWED><![CDATA[2025-05-16 09:32:09]]></AU_LASTMESSAGEVIEWED>
+        <AU_DESCRIPTION><![CDATA[Default Administrator]]></AU_DESCRIPTION>
+        <AU_ACTIVATEFLAG><![CDATA[Activated]]></AU_ACTIVATEFLAG>
+        <AU_ORGNAME><![CDATA[Adeptia Inc]]></AU_ORGNAME>
+        <AU_ENTITYNAME><![CDATA[admin]]></AU_ENTITYNAME>
+        <AU_PREVIOUSVERSION><![CDATA[null]]></AU_PREVIOUSVERSION>
+        <AU_EMAIL><![CDATA[user@domain.com]]></AU_EMAIL>
+        <AU_PHONE><![CDATA[301-000-000]]></AU_PHONE>
+        <AU_VERSION><![CDATA[1]]></AU_VERSION>
+        <AU_FAX><![CDATA[301-000-000]]></AU_FAX>
+        <AU_IMAGEIDENTIFIER><![CDATA[1]]></AU_IMAGEIDENTIFIER>
+        <AU_WEBDAVFOLDER><![CDATA[WebDavFolder:192168001207112972325504600001]]></AU_WEBDAVFOLDER>
+        <AU_PROJECTOWNER><![CDATA[Default]]></AU_PROJECTOWNER>
+        <AU_CREATIONDATE><![CDATA[2025-04-24 17:54:08.0]]></AU_CREATIONDATE>
+        <AU_USERPERMISSION><![CDATA[7]]></AU_USERPERMISSION>
+        <LOCKED_TIME><![CDATA[null]]></LOCKED_TIME>
+        <AU_SYNCHRONIZED><![CDATA[0]]></AU_SYNCHRONIZED>
+        <AU_USERTYPE><![CDATA[sysadmin]]></AU_USERTYPE>
+        <AU_CERTIFICATESTATUS><![CDATA[false]]></AU_CERTIFICATESTATUS>
+        <AU_MANAGER><![CDATA[null]]></AU_MANAGER>
+        <AU_SENDEMAIL><![CDATA[0]]></AU_SENDEMAIL>
+        <AU_CITY><![CDATA[Chicago]]></AU_CITY>
+        <AU_COMMENTS><![CDATA[null]]></AU_COMMENTS>
+        <AU_PRIVATEKEYPASSWORD><![CDATA[null]]></AU_PRIVATEKEYPASSWORD>
+        <AU_MOBILE><![CDATA[301-000-000]]></AU_MOBILE>
+        <AU_ADDRESS1><![CDATA[233 East Wacker Dr]]></AU_ADDRESS1>
+        <AU_PRIMARYGROUP><![CDATA[IndigoGroup:127000000001107055548721600002]]></AU_PRIMARYGROUP>
+        <AU_USEROWNER><![CDATA[IndigoUser:127000000001107055536473900001]]></AU_USEROWNER>
+        <AU_ID><![CDATA[127000000001107055536473900001]]></AU_ID>
+        <AU_PASSWORD><![CDATA[FTAi2rgMkUynuvpqpy5EqQ==]]></AU_PASSWORD>
+        <AU_TITLE><![CDATA[IT Manager]]></AU_TITLE>
+        <PARTNER_OWNER><![CDATA[1]]></PARTNER_OWNER>
+        <AU_LASTLOGIN><![CDATA[1747469300362]]></AU_LASTLOGIN>
+        <AU_MODIFIEDBY><![CDATA[IndigoUser:127000000001107055536473900001]]></AU_MODIFIEDBY>
+        <AU_COMMENT><![CDATA[null]]></AU_COMMENT>
+        <AU_ACTIVEVERSION><![CDATA[1]]></AU_ACTIVEVERSION>
+        <AU_COLLEAGUE><![CDATA[null]]></AU_COLLEAGUE>
+        <AU_VIEWLEVEL><![CDATA[null]]></AU_VIEWLEVEL>
+        <AU_STATE><![CDATA[IL]]></AU_STATE>
+        <AU_COUNTRY><![CDATA[US]]></AU_COUNTRY>
+        <AU_REVISION><![CDATA[null]]></AU_REVISION>
+        <AU_LASTNAME><![CDATA[User]]></AU_LASTNAME>
+        <AU_MODIFIEDDATE><![CDATA[2025-05-17 07:44:40.0]]></AU_MODIFIEDDATE>
+        <AU_LASTPASSWORDCHANGED><![CDATA[2025-04-24 17:54:08.0]]></AU_LASTPASSWORDCHANGED>
+        <AU_CALENDAR><![CDATA[null]]></AU_CALENDAR>
+        <AU_KEYSTOREPASSWORD><![CDATA[null]]></AU_KEYSTOREPASSWORD>
+        <AU_FIRSTNAME><![CDATA[Admin]]></AU_FIRSTNAME>
+    </AU_USERS>
+    <columnInfo dbtype="2">
+        <column name="AU_ID" type="12"/>
+        <column name="AU_VERSION" type="12"/>
+        <column name="AU_PREVIOUSVERSION" type="12"/>
+        <column name="AU_ACTIVEVERSION" type="2"/>
+        <column name="AU_ENTITYNAME" type="12"/>
+        <column name="AU_USEROWNER" type="12"/>
+        <column name="AU_GROUPOWNER" type="12"/>
+        <column name="AU_PERMISSIONMASK" type="12"/>
+        <column name="AU_DESCRIPTION" type="12"/>
+        <column name="AU_COMMENTS" type="12"/>
+        <column name="AU_MODIFIEDBY" type="12"/>
+        <column name="AU_CREATIONDATE" type="93"/>
+        <column name="AU_MODIFIEDDATE" type="93"/>
+        <column name="AU_REVISION" type="12"/>
+        <column name="AU_SYNCHRONIZED" type="2"/>
+        <column name="AU_PROJECTOWNER" type="12"/>
+        <column name="AU_USERTYPE" type="12"/>
+        <column name="AU_PRIMARYGROUP" type="12"/>
+        <column name="AU_FIRSTNAME" type="12"/>
+        <column name="AU_LASTNAME" type="12"/>
+        <column name="AU_TITLE" type="12"/>
+        <column name="AU_COMMENT" type="12"/>
+        <column name="AU_ORGNAME" type="12"/>
+        <column name="AU_ADDRESS1" type="12"/>
+        <column name="AU_ADDRESS2" type="12"/>
+        <column name="AU_CITY" type="12"/>
+        <column name="AU_STATE" type="12"/>
+        <column name="AU_COUNTRY" type="12"/>
+        <column name="AU_ORGURL" type="12"/>
+        <column name="AU_EMAIL" type="12"/>
+        <column name="AU_MOBILE" type="12"/>
+        <column name="AU_PHONE" type="12"/>
+        <column name="AU_FAX" type="12"/>
+        <column name="AU_PASSWORD" type="12"/>
+        <column name="AU_ZIP" type="12"/>
+        <column name="AU_USERPERMISSION" type="12"/>
+        <column name="AU_ACTIVATEFLAG" type="12"/>
+        <column name="AU_KEYSTOREPASSWORD" type="12"/>
+        <column name="AU_PRIVATEKEYPASSWORD" type="12"/>
+        <column name="AU_CERTIFICATESTATUS" type="12"/>
+        <column name="AU_COLLEAGUE" type="12"/>
+        <column name="AU_MANAGER" type="12"/>
+        <column name="AU_CALENDAR" type="12"/>
+        <column name="AU_VIEWLEVEL" type="12"/>
+        <column name="AU_LASTPASSWORDCHANGED" type="93"/>
+        <column name="AU_WEBDAVFOLDER" type="12"/>
+        <column name="AU_LASTLOGIN" type="12"/>
+        <column name="AU_SENDEMAIL" type="2"/>
+        <column name="AU_UNIQUEIDENTIFIER" type="12"/>
+        <column name="AU_IMAGEIDENTIFIER" type="2"/>
+        <column name="AU_LASTMESSAGEVIEWED" type="93"/>
+        <column name="LOCKED_TIME" type="93"/>
+        <column name="AU_USERPREFRENCES" type="2"/>
+        <column name="PARTNER_OWNER" type="2"/>
+        <column name="AU_READ_ONLY_ACCESS" type="2"/>
+    </columnInfo>
+</data>

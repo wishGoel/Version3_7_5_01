@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_MAILACCOUNT>
+        <AU_SYNCHRONIZED><![CDATA[0]]></AU_SYNCHRONIZED>
+        <AU_ACCOUNTTYPE><![CDATA[source]]></AU_ACCOUNTTYPE>
+        <AU_ID><![CDATA[172020003018174642545703700001]]></AU_ID>
+        <AU_COMMENTS><![CDATA[null]]></AU_COMMENTS>
+        <AU_OAUTHACCOUNTID><![CDATA[null]]></AU_OAUTHACCOUNTID>
+        <AU_PERMISSIONMASK><![CDATA[770]]></AU_PERMISSIONMASK>
+        <AU_MODIFIEDDATE><![CDATA[2025-05-17 08:32:12.0]]></AU_MODIFIEDDATE>
+        <AU_DESCRIPTION><![CDATA[Vgoel_CompanyOnly_Single_01]]></AU_DESCRIPTION>
+        <AU_AUTHENTICATIONTYPE><![CDATA[Basic]]></AU_AUTHENTICATIONTYPE>
+        <AU_USERID><![CDATA[acsectest@adeptia.com]]></AU_USERID>
+        <AU_PORT><![CDATA[993]]></AU_PORT>
+        <AU_SECURE><![CDATA[0]]></AU_SECURE>
+        <AU_PREVIOUSVERSION><![CDATA[null]]></AU_PREVIOUSVERSION>
+        <AU_GROUPOWNER><![CDATA[IndigoGroup:192168001075148181566048300002]]></AU_GROUPOWNER>
+        <AU_CREATIONDATE><![CDATA[2025-05-05 06:10:57.0]]></AU_CREATIONDATE>
+        <AU_VERSION><![CDATA[1]]></AU_VERSION>
+        <AU_REVISION><![CDATA[null]]></AU_REVISION>
+        <AU_PASSWORD><![CDATA[K+EeBr5p8dkFw5fDxt+Ctjbr9omuF/r1Nf6gKMMNYRA=]]></AU_PASSWORD>
+        <AU_ENTITYNAME><![CDATA[Vgoel_CompanyOnly_Single_01]]></AU_ENTITYNAME>
+        <AU_MODIFIEDBY><![CDATA[IndigoUser:127000000001107055536473900001]]></AU_MODIFIEDBY>
+        <AU_SECURITYTYPE><![CDATA[TLS]]></AU_SECURITYTYPE>
+        <AU_HOSTNAME><![CDATA[imap.gmail.com]]></AU_HOSTNAME>
+        <AU_PROTOCOL><![CDATA[IMAP]]></AU_PROTOCOL>
+        <AU_ACTIVEVERSION><![CDATA[1]]></AU_ACTIVEVERSION>
+        <AU_PROJECTOWNER><![CDATA[Project:11747470498362]]></AU_PROJECTOWNER>
+        <AU_USEROWNER><![CDATA[IndigoUser:11746179132188]]></AU_USEROWNER>
+    </AU_MAILACCOUNT>
+    <columnInfo dbtype="2">
+        <column name="AU_ID" type="12"/>
+        <column name="AU_VERSION" type="12"/>
+        <column name="AU_PREVIOUSVERSION" type="12"/>
+        <column name="AU_ACTIVEVERSION" type="2"/>
+        <column name="AU_ENTITYNAME" type="12"/>
+        <column name="AU_USEROWNER" type="12"/>
+        <column name="AU_GROUPOWNER" type="12"/>
+        <column name="AU_PERMISSIONMASK" type="12"/>
+        <column name="AU_DESCRIPTION" type="12"/>
+        <column name="AU_COMMENTS" type="12"/>
+        <column name="AU_MODIFIEDBY" type="12"/>
+        <column name="AU_CREATIONDATE" type="93"/>
+        <column name="AU_MODIFIEDDATE" type="93"/>
+        <column name="AU_REVISION" type="12"/>
+        <column name="AU_SYNCHRONIZED" type="2"/>
+        <column name="AU_PROJECTOWNER" type="12"/>
+        <column name="AU_PROTOCOL" type="12"/>
+        <column name="AU_HOSTNAME" type="12"/>
+        <column name="AU_SECURE" type="2"/>
+        <column name="AU_PORT" type="2"/>
+        <column name="AU_USERID" type="12"/>
+        <column name="AU_PASSWORD" type="12"/>
+        <column name="AU_ACCOUNTTYPE" type="12"/>
+        <column name="AU_SECURITYTYPE" type="12"/>
+        <column name="AU_AUTHENTICATIONTYPE" type="12"/>
+        <column name="AU_OAUTHACCOUNTID" type="12"/>
+    </columnInfo>
+</data>

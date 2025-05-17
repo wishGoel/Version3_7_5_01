@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_GROUPS>
+        <AU_COMMENT><![CDATA[null]]></AU_COMMENT>
+        <AU_MODIFIEDDATE><![CDATA[2023-10-20 06:44:27.0]]></AU_MODIFIEDDATE>
+        <AU_GROUPOWNER><![CDATA[IndigoGroup:192168001075148181566048300002]]></AU_GROUPOWNER>
+        <AU_WEBDAVFOLDER><![CDATA[WebDavFolder:192168001207112972325504600001]]></AU_WEBDAVFOLDER>
+        <AU_GROUPINFO><![CDATA[K8QswfddIduKjYZJo7AwgclYZPnFCTzRUSyxdim3JrzK5v8CUYpBult9MBz+2s6/]]></AU_GROUPINFO>
+        <AU_COMMENTS><![CDATA[null]]></AU_COMMENTS>
+        <AU_ENTITYNAME><![CDATA[administrators]]></AU_ENTITYNAME>
+        <AU_DESCRIPTION><![CDATA[Administrative group]]></AU_DESCRIPTION>
+        <AU_SYNCHRONIZED><![CDATA[null]]></AU_SYNCHRONIZED>
+        <AU_ACTIVEVERSION><![CDATA[1]]></AU_ACTIVEVERSION>
+        <AU_PREVIOUSVERSION><![CDATA[null]]></AU_PREVIOUSVERSION>
+        <AU_PROJECTOWNER><![CDATA[Default]]></AU_PROJECTOWNER>
+        <AU_REVISION><![CDATA[null]]></AU_REVISION>
+        <AU_CREATIONDATE><![CDATA[2023-10-20 06:44:27.0]]></AU_CREATIONDATE>
+        <AU_ID><![CDATA[127000000001107055548721600002]]></AU_ID>
+        <AU_TITLE><![CDATA[null]]></AU_TITLE>
+        <AU_PERMISSIONMASK><![CDATA[711]]></AU_PERMISSIONMASK>
+        <AU_USEROWNER><![CDATA[IndigoUser:11745830851001]]></AU_USEROWNER>
+        <AU_MODIFIEDBY><![CDATA[IndigoUser:11745830851001]]></AU_MODIFIEDBY>
+        <AU_VERSION><![CDATA[1]]></AU_VERSION>
+    </AU_GROUPS>
+    <columnInfo dbtype="2">
+        <column name="AU_ID" type="12"/>
+        <column name="AU_VERSION" type="12"/>
+        <column name="AU_PREVIOUSVERSION" type="12"/>
+        <column name="AU_ACTIVEVERSION" type="2"/>
+        <column name="AU_ENTITYNAME" type="12"/>
+        <column name="AU_USEROWNER" type="12"/>
+        <column name="AU_GROUPOWNER" type="12"/>
+        <column name="AU_PERMISSIONMASK" type="12"/>
+        <column name="AU_DESCRIPTION" type="12"/>
+        <column name="AU_COMMENTS" type="12"/>
+        <column name="AU_MODIFIEDBY" type="12"/>
+        <column name="AU_CREATIONDATE" type="93"/>
+        <column name="AU_MODIFIEDDATE" type="93"/>
+        <column name="AU_REVISION" type="12"/>
+        <column name="AU_SYNCHRONIZED" type="2"/>
+        <column name="AU_PROJECTOWNER" type="12"/>
+        <column name="AU_TITLE" type="12"/>
+        <column name="AU_COMMENT" type="12"/>
+        <column name="AU_WEBDAVFOLDER" type="12"/>
+        <column name="AU_GROUPINFO" type="12"/>
+    </columnInfo>
+</data>
